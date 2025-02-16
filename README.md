@@ -16,12 +16,21 @@ This project generates a synthetic grayscale checkerboard image using Python. It
 pip install numpy matplotlib
 ```
 
-## Usage
-Run the `checkerboard.py` script to generate and display the checkerboard image:
-
-```bash
-python checkerboard.py
-```
+## Steps to Run the Script
+- Download the Repository:
+  Go to the GitHub repository: https://github.com/WeifanZheng17/DSS5105_Exercise_-1.git.
+  Click on the green Code button and select Download ZIP.
+  Extract the ZIP file to your desired location.
+- Navigate to the Project Folder:
+  Open a terminal and navigate to the extracted folder:
+  ```bash
+  cd path/to/extracted-folder
+  ```
+- Run the Python Script:
+  Execute the script to generate and display the checkerboard pattern:
+  ```bash
+  python checkerboard.py
+  ```
 
 ## Git Workflow
 This repository follows a basic Git workflow:
