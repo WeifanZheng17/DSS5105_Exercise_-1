@@ -9,8 +9,7 @@ This project generates a synthetic grayscale checkerboard image using Python. It
 - Includes version control setup with Git and GitHub.
 
 ## Installation
-Prerequisites
-- Python 3.x installed on your system.
+- Make sure Python 3.x is installed on your system.
 - Required the following Python libraries: numpy and matplotlib
 
 ```bash
