@@ -32,5 +32,5 @@ This repository follows a basic Git workflow:
 6. (Bonus) Experiment with branching and colormap modifications.
 
 ## Repository Link
-[GitHub Repository]()
+[GitHub Repository](https://github.com/WeifanZheng17/DSS5105_Exercise_-1.git)
 
